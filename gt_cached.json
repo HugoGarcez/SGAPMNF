@@ -1287,6 +1287,9 @@
         "fr": "Effet de fondu",
         "it": "Effetto dissolvenza"
     },
+    "Field must be between 3 and 300 characters long.": {
+        "en": "Field must be between 3 and 300 characters long."
+    },
     "First Template": {
         "ar": "\u0623\u0648\u0644 \u0642\u0627\u0644\u0628",
         "en": "First Template",
